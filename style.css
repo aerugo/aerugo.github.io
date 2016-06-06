@@ -10,9 +10,13 @@ html {
 body {
     display: table-cell;
     vertical-align: middle;
+    font-family: 'PT Sans Narrow', sans-serif;
 }
 
 h1  {
-    font-family: 'PT Sans Narrow', sans-serif;
     font-size: 50px;
+}
+
+p {
+    text-align: center;
 }
