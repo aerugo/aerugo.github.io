@@ -3144,6 +3144,7 @@
 				margin: 0 2em 0 0;
 				text-align: center;
 				width: 10em;
+				font-size: 14px;
 			}
 
 				.features article .icon:before {
@@ -3180,6 +3181,7 @@
 				-ms-flex-shrink: 1;
 				flex-shrink: 1;
 				width: 100%;
+				font-size: 14px;
 			}
 
 				.features article .content > :last-child {
