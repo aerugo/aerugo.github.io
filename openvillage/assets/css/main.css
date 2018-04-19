@@ -2544,6 +2544,12 @@
 
 /* Image */
 
+	.videocrop {
+		margin-top: -100px;
+    overflow:hidden;
+    display:block;
+	}
+
 	.image {
 		border-radius: 0.375em;
 		border: 0;
