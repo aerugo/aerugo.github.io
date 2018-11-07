@@ -1,0 +1,23 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+h1  {
+    font-size: 50px;
+    margin: 10px;
+}
+
+p {
+    text-align: center;
+}
